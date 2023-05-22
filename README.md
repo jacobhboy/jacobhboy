@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 백엔드 개발자가 되고싶은 **이창보**입니다, <br>
-Spring, MSA, DevOps에 관심을 가지고 공부하고 있습니다.<br>
+현재 Spring, Java, DDD에 관심을 가지고 있습니다.<br>
 
 <hr>
 
